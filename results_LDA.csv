@@ -1,0 +1,14 @@
+Index,Feature,DSR,8,10,12,13,15
+1,"Wavelet Transform,Converse Wavelet Transform",12,64,80,84,90,97
+2,"Converse Wavelet Transform",12,63,81,81,91,96
+3,"Time Series,Wavelet Transform,Converse Wavelet Transform",24,70,79,85,88,95
+4,"HjorthParams,Time Series",10,64,81,88,91,96
+5,"Simple Statistical Features,Time Series,Converse Wavelet Transform",24,64,82,89,90,95
+6,"Wavelet Transform",12,68,83,84,87,95
+7,"Time Series,Converse Wavelet Transform",24,72,84,90,93,94
+8,"FFT slice,Time Series",12,66,81,86,90,95
+9,"Time Series,Wavelet Transform",24,70,82,85,87,94
+10,"Time Series,Wavelet Transform,Hjorth Parameters",12,59,73,80,85,94
+11,"Time Series,Hjorth Parameters,Spectral Entropy",12,63,82,82,88,94
+12,"Time Series",12,70,80,87,89,94
+13,"Time Series,Wavelet Transform,Spectral Entropy,Hjorth Parameters",12,63,73,80,84,93

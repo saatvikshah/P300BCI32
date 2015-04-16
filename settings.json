@@ -1,0 +1,7 @@
+{
+    "data_dir" : "../data/P300/",
+    "fs" : 240,
+    "num_chars_train" : 85,
+    "num_chars_test" : 100,
+    "num_seq" : 15
+}
